@@ -9,5 +9,5 @@ Windows Network WFP Monitor. The program allows the user to monitor the activity
 | Directory | Description|
 |
 | network-wfp-monitor-app | windows app|
-| network-wfp-monitor-filters | wetwork wfp driver |
+| network-wfp-monitor-filters | network wfp driver |
 
