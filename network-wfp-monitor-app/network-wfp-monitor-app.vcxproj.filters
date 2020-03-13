@@ -27,6 +27,9 @@
     <ClInclude Include="network-wfp-monitor-app.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="resource1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="network-wfp-monitor-app.cpp">
@@ -35,6 +38,9 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="network-wfp-monitor-app.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+    <ResourceCompile Include="resource.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
   </ItemGroup>

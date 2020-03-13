@@ -153,6 +153,7 @@
     <ClInclude Include="framework.h" />
     <ClInclude Include="network-wfp-monitor-app.h" />
     <ClInclude Include="Resource.h" />
+    <ClInclude Include="resource1.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
@@ -160,6 +161,7 @@
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="network-wfp-monitor-app.rc" />
+    <ResourceCompile Include="resource.rc" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="network-wfp-monitor-app.ico" />

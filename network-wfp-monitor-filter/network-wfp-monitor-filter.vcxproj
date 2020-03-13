@@ -193,8 +193,12 @@
     <ClInclude Include="net_wfp_callout.h" />
     <ClInclude Include="net_wfp_mon.h" />
     <ClInclude Include="new.h" />
+    <ClInclude Include="resource.h" />
     <ClInclude Include="string.h" />
     <ClInclude Include="time.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="resource.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
